@@ -19,4 +19,4 @@ Built for hackathons. Designed for production.
 
 ## 🧩 Architecture Overview
 
-TBD
+![System Architecture](architecture.png)
